@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa908f3c-eeb2-4e0d-b697-d6fd20e1f457" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/src/main/java/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/TestsSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/src/main/java/TestsSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/Homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/target/classes/Homepage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/TestsSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/target/classes/TestsSetup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/DriverSetup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/ElementWaiting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/Homepage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/TestsSetup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/resources/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/test/java/InterviewTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/InterviewAssessment-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/DriverSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/ElementWaiting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/Homepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/TestsSetup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/test-classes/InterviewTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +56,11 @@
     "last_opened_file_path": "C:/Practice/From Github/maui-master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\IM\Interview\assessment\InterviewAssessment" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
@@ -48,7 +69,7 @@
   </component>
   <component name="RunManager">
     <configuration name="InterviewTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="InterviewAssessment" />
+      <module name="assessment" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="InterviewTests" />
       <option name="METHOD_NAME" value="test1" />
