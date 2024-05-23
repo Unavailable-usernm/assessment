@@ -27,8 +27,8 @@ public class InterviewTests extends TestsSetup {
         Do the following:
         1. Open Demoblaze homepage
         2. Click on Phones category
-        3. Identify the Nexus 6 phone and get its name and price
-        4. Click on Nexus 6 phone in order to open the product details page
+        3. Choose one of the phones (for example the Nexus 6 phone) in order to save its name and price
+        4. Click on the chosen phone in order to open the product details page
         5. Check that the name and the price of the product are equal to the name and price displayed in step 3
         Note1: Use Assertions.assertEquals() for both validations and do not use hardcoded values in the assertions
         Note2: You can use either Thread.sleep or the method from ElementWaiting.java for waiting for WebElements to be displayed.

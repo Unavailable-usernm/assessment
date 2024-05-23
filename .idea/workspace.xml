@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa908f3c-eeb2-4e0d-b697-d6fd20e1f457" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/src/main/java/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/src/main/java/TestsSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/src/main/java/TestsSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/Homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/target/classes/Homepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewAssessment/target/classes/TestsSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewAssessment/target/classes/TestsSetup.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2f07c80oU3gviV2bNnytbKzNmKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.InterviewTests.test1.executor": "Run",
+    "Maven.InterviewAssessment [clean].executor": "Run",
+    "Maven.InterviewAssessment [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Practice/From Github/maui-master"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="InterviewTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewAssessment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterviewTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InterviewTests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa908f3c-eeb2-4e0d-b697-d6fd20e1f457" name="Changes" comment="" />
+      <created>1712926217373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712926217373</updated>
+    </task>
+    <servers />
+  </component>
+</project>
