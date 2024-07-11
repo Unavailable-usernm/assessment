@@ -7,10 +7,9 @@ public class DriverSetup {
     private static WebDriver driver;
 
     public static void setDriver() {
-        System.setProperty("webdriver.chrome.driver", "src/main/resources/drivers/chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--disable-gpu", "--window-size=1920,1200", "--disable-extensions", "--no-sandbox", "--disable-dev-shm-usage");
-
+        options.addArguments("--disable-gpu", "start-maximized", "--disable-extensions", "--no-sandbox", "--disable-dev-shm-usage");
+        options.setBrowserVersion("126");
         driver = new ChromeDriver(options);
     }
 
